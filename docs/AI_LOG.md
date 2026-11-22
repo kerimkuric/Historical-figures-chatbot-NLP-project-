@@ -1,4 +1,3 @@
-<img width="1172" height="468" alt="image" src="https://github.com/user-attachments/assets/4cfc66ed-8777-4078-84c7-d0a6ff3a9ab6" />
 # AI Assistance Log
 
 Use this table for course disclosure of AI-assisted work. Add one row for every
